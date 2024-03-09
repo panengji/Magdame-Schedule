@@ -1,0 +1,83 @@
+/*Magdame,Stephanie Angel C.
+BSINFO 2B*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+body {
+      background-image: linear-gradient(to bottom, #add8e6, #ffdab9);
+      color: #000000; 
+      text-align: center;
+    }
+
+.image-container img{
+	max-width: 200px;
+	max-height: 200px;	
+}
+
+h3{
+	margin: 20px;
+}
+
+p{
+	margin: 20px;
+}
+
+table {
+  border: 2px solid black;
+}
+
+th, td {
+  border: 1px solid black; 
+}
+
+table {
+    margin: auto;
+    width: 85%;
+    border-spacing: 3px;
+}
+
+th {
+    background-color: black; 
+    color: white; 
+    font-weight: bold; 
+    font-style: italic; 
+}
+
+td.PE{
+	background-color: #D37676; 
+    color: white;
+}
+
+td.ITEP205{
+	background-color: #F1EF99; 
+    color: black;
+}
+
+td.ITEP207{
+	background-color: #40679E; 
+    color: yellow;
+}
+
+td.GEC108{
+	background-color: #FF004D; 
+    color: #F9DEC9;
+}
+
+td.ITEP206{
+	background-color: #219C90; 
+    color: #3D0C11;
+}
+
+td.ITEP204{
+	background-color: #A9B388; 
+    color: white;
+}
+
+td.ITEL203{
+	background-color: #B5C0D0; 
+    color: #1D24CA;
+}

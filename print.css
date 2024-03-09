@@ -1,0 +1,32 @@
+/*Magdame,Stephanie Angel C.
+BSINFO 2B*/
+body {
+    color: #000000; 
+    background-color: #ffffff; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table, th{
+    background-color: #f0f0f0; 
+    color: #000000;
+}
+
+td.PE,
+td.ITEP205,
+td.ITEP207,
+td.GEC108,
+td.ITEP206,
+td.ITEP204,
+td.ITEL203 {
+    color: #000000; 
+}
+
+
+.FBLINK{
+	color: #000000;
+}
+
+.image-container img {
+    filter: grayscale(100%);
+}
+
